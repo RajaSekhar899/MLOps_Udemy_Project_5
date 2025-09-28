@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Navat/OneDrive/Desktop/MLOps-Beginner%20to%20Advanced%20MLOps%20on%20GCP-CICD_%20Kubernetes%20Jenkins/5_Project/mlruns/0/3e9208c562d34d88b3efc1528e7fdbf9/artifacts
+end_time: 1759038835576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e9208c562d34d88b3efc1528e7fdbf9
+run_name: casual-sow-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759038811452
+status: 3
+tags: []
+user_id: Navat

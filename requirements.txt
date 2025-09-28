@@ -6,4 +6,4 @@ Flask
 joblib
 seaborn
 mlflow
-kfp
+kfp==1.8.22
